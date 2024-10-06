@@ -1,6 +1,6 @@
-# Laravel-like Service Container with Deno and Rust (WASM)
+# Nominal Typed Service Container powered by Rust/WASM
 
-This project implements a Laravel-like service container using Deno and Rust (compiled to WebAssembly). Rust provides nominal typing and strict type safety.
+This project implements a service container using Deno and Rust (compiled to WebAssembly). Rust provides nominal typing and strict type safety.
 
 ## Running the project
 
